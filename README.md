@@ -11,6 +11,12 @@ This is a simple landing page inspired by Nike's website, built using only **HTM
 - Clean UI design
 
 ---
+## 📸 Live website
+
+👉 [Live Demo](https://sarveshnatulkar.github.io/nike-website/) 
+
+---
+
 
 ## 📚 What I Learned
 
